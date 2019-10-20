@@ -2497,16 +2497,16 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
 .has-danger .col-form-label,
 .has-danger .form-check-label,
 .has-danger .custom-control {
-  color: #d9534f;
+  color: #3387fd;
 }
 
 .has-danger .form-control {
-  border-color: #d9534f;
+  border-color: #3387fd;
 }
 
 .has-danger .input-group-addon {
-  color: #d9534f;
-  border-color: #d9534f;
+  color: #3387fd;
+  border-color: #3387fd;
   background-color: #fdf7f7;
 }
 
@@ -2829,8 +2829,8 @@ fieldset[disabled] a.btn {
 
 .btn-danger {
   color: #fff;
-  background-color: #d9534f;
-  border-color: #d9534f;
+  background-color: #3387fd;
+  border-color: #3387fd;
 }
 
 .btn-danger:hover {
@@ -2845,8 +2845,8 @@ fieldset[disabled] a.btn {
 }
 
 .btn-danger.disabled, .btn-danger:disabled {
-  background-color: #d9534f;
-  border-color: #d9534f;
+  background-color: #3387fd;
+  border-color: #3387fd;
 }
 
 .btn-danger:active, .btn-danger.active,
@@ -3008,16 +3008,16 @@ fieldset[disabled] a.btn {
 }
 
 .btn-outline-danger {
-  color: #d9534f;
+  color: #3387fd;
   background-image: none;
   background-color: transparent;
-  border-color: #d9534f;
+  border-color: #3387fd;
 }
 
 .btn-outline-danger:hover {
   color: #fff;
-  background-color: #d9534f;
-  border-color: #d9534f;
+  background-color: #3387fd;
+  border-color: #3387fd;
 }
 
 .btn-outline-danger:focus, .btn-outline-danger.focus {
@@ -3026,15 +3026,15 @@ fieldset[disabled] a.btn {
 }
 
 .btn-outline-danger.disabled, .btn-outline-danger:disabled {
-  color: #d9534f;
+  color: #3387fd;
   background-color: transparent;
 }
 
 .btn-outline-danger:active, .btn-outline-danger.active,
 .show > .btn-outline-danger.dropdown-toggle {
   color: #fff;
-  background-color: #d9534f;
-  border-color: #d9534f;
+  background-color: #3387fd;
+  border-color: #3387fd;
 }
 
 .btn-link {
@@ -4527,8 +4527,8 @@ tbody.collapse.show {
 }
 
 .card-danger {
-  background-color: #d9534f;
-  border-color: #d9534f;
+  background-color: #3387fd;
+  border-color: #3387fd;
 }
 
 .card-danger .card-header,
@@ -4563,7 +4563,7 @@ tbody.collapse.show {
 
 .card-outline-danger {
   background-color: transparent;
-  border-color: #d9534f;
+  border-color: #3387fd;
 }
 
 .card-inverse {
@@ -4918,7 +4918,7 @@ a.badge:focus, a.badge:hover {
 }
 
 .badge-danger {
-  background-color: #d9534f;
+  background-color: #3387fd;
 }
 
 .badge-danger[href]:focus, .badge-danger[href]:hover {
@@ -6113,7 +6113,7 @@ a.bg-warning:focus, a.bg-warning:hover {
 }
 
 .bg-danger {
-  background-color: #d9534f !important;
+  background-color: #3387fd !important;
 }
 
 a.bg-danger:focus, a.bg-danger:hover {
@@ -9199,7 +9199,7 @@ a.text-warning:focus, a.text-warning:hover {
 }
 
 .text-danger {
-  color: #d9534f !important;
+  color: #3387fd !important;
 }
 
 a.text-danger:focus, a.text-danger:hover {
