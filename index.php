@@ -1,1 +1,1 @@
-<?php include_once("03-comming-soon"); ?>
+<?php include_once("index"); ?>
