@@ -109,8 +109,7 @@ b.light-color{ color: #444;  }
 /* ---------------------------------
 3. MAIN SECTION
 --------------------------------- */
-.logo{  position: absolute; top: 30px; width: 10%; left: 50%; transform: translateX(-50%); }
-.logo img{ height: 100%; width: auto; } 
+.logo{ position: absolute; top: 30px; width: 140px; left: 50%; transform: translateX(-50%);}
 
 
 .main-area{ position: relative; height: 100vh; z-index: 1; padding: 0 20px; background-size: cover; }
@@ -125,7 +124,7 @@ b.light-color{ color: #444;  }
 
 .main-area .notify-btn:hover{ background: none; }
 
-.main-area .social-btn{ position: absolute; bottom: 30px; width: 100%; left: 50%; transform: translateX(-50%); }
+.main-area .social-btn{ position: absolute; bottom: 30px; width: 100%; left: 50%;}
 
 .main-area .social-btn > li > a{ margin: 0 10px; padding-bottom: 7px; position: relative; overflow: hidden; }
 
@@ -133,9 +132,8 @@ b.light-color{ color: #444;  }
 	transition: all .2s; height: 2px; background: #1dc3fc; }
 
 	
-.main-area .social-btn > li > a:hover:after{ transform: translateX(100%); }
 
- .footer-icons{ position: absolute; bottom: 30px; width: 100%; left: 50%; transform: translateX(-50%); }
+ .footer-icons{ position: absolute; bottom: 30px; width: 100%; left: 0%; }
 
  .footer-icons > li > a{ display: inline-block; font-size: 1.07em; padding: 0 0px; }
 
