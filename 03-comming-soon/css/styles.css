@@ -71,8 +71,7 @@ b.light-color{ color: #444;  }
 
 *, *::before, *::after {
     -webkit-box-sizing: inherit;
-    box-sizing: inherit;
-}
+    box-sizing: inherit;}
 
 *, *::before, *::after {
     -webkit-box-sizing: inherit;
@@ -147,8 +146,8 @@ b.light-color{ color: #444;  }
 
  .footer-icons > li > a:hover > i{ border: 1px solid; }
 
- .footer-icons > li > a > i[class*="behance"]{ color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); }
  .footer-icons > li > a > i[class*="linkedin"]{ color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); }
+ .footer-icons > li > a > i[class*="behance"]{ color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); }
  .footer-icons > li > a > i[class*="facebook"]{ color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); }
  .footer-icons > li > a > i[class*="instagram"]{ color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); }
 
