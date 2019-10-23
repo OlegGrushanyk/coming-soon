@@ -120,16 +120,17 @@ b.light-color{ color: #444;  }
 .main-area .desc{ margin: 20px auto; max-width: 500px; }
 	
 .main-area .notify-btn{ padding: 13px 35px; border-radius: 50px; border: 2px solid #1dc3fc;
-	color: #fff; background: #1dc3fc; }
+	color: rgb(255, 255, 255); background: #1dc3fc; }
 
-.main-area .notify-btn:hover{ background: none; }
+.main-area .notify-btn:hover{ background: #ffffff; }
+.main-area .notify-btn:hover{ color: #1dc3fc; }
 
 .main-area .social-btn{ position: absolute; bottom: 30px; width: 100%; left: 50%;}
 
 .main-area .social-btn > li > a{ margin: 0 10px; padding-bottom: 7px; position: relative; overflow: hidden; }
 
-.main-area .social-btn > li > a:after{ content:''; position: absolute; bottom: 0; left: 0; right: 0; 
-	transition: all .2s; height: 2px; background: #1dc3fc; }
+/* .main-area .social-btn > li > a:after{ content:''; position: absolute; bottom: 0; left: 0; right: 0; 
+	transition: all .2s; height: 2px; background: #1dc3fc; } */
 
 	
 
