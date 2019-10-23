@@ -150,5 +150,6 @@ b.light-color{ color: #444;  }
  .footer-icons > li > a > i[class*="behance"]{ color: #01213c; border-color: #01213c; }
  .footer-icons > li > a:hover > i[class*="behance"]{ color: #1dc3fc; border-color: #1dc3fc; }
  .footer-icons > li > a > i[class*="facebook"]{ color: #01213c; border-color: #01213c; }
+ .footer-icons > li > a:hover > i[class*="facebook"]{ color: #1dc3fc; border-color: #1dc3fc; }
  .footer-icons > li > a > i[class*="instagram"]{ color: #01213c; border-color: #01213c; }
-
+ .footer-icons > li > a:hover > i[class*="instagram"]{ color: #1dc3fc; border-color: #1dc3fc; }
