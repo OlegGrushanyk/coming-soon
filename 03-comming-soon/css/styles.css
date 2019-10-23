@@ -99,11 +99,11 @@ b.light-color{ color: #444;  }
 :-moz-placeholder { font-size: .9em; letter-spacing: 1px; }
 
 
-.full-height{ height: 100%; }
+/* .full-height{ height: 100%; }
 
 .position-static{ position: static; }
 
-.font-white{ color: #fff; }
+.font-white{ color: #fff; } */
 
 
 /* ---------------------------------
@@ -116,7 +116,7 @@ b.light-color{ color: #444;  }
 .main-area{ position: relative; height: 100vh; z-index: 1; padding: 0 20px; background-size: cover; }
 
 .main-area:after{ content:''; position: absolute; top: 0; bottom: 0;left: 0; right: 0; z-index: -1;  
-	opacity: .4; background: #000; }
+	opacity: .4; background: #ffffff; }
 
 .main-area .desc{ margin: 20px auto; max-width: 500px; }
 	
@@ -146,8 +146,8 @@ b.light-color{ color: #444;  }
 
  .footer-icons > li > a:hover > i{ border: 1px solid; }
 
- .footer-icons > li > a > i[class*="linkedin"]{ color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); }
- .footer-icons > li > a > i[class*="behance"]{ color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); }
- .footer-icons > li > a > i[class*="facebook"]{ color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); }
- .footer-icons > li > a > i[class*="instagram"]{ color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); }
+ .footer-icons > li > a > i[class*="linkedin"]{ color: rgb(0, 0, 0); border-color: rgb(255, 255, 255); }
+ .footer-icons > li > a > i[class*="behance"]{ color: rgb(0, 0, 0); border-color: rgb(255, 255, 255); }
+ .footer-icons > li > a > i[class*="facebook"]{ color: rgb(0, 0, 0); border-color: rgb(255, 255, 255); }
+ .footer-icons > li > a > i[class*="instagram"]{ color: rgb(0, 0, 0); border-color: rgb(255, 255, 255); }
 
