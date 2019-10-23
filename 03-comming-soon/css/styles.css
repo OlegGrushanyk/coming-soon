@@ -65,7 +65,7 @@ button{ outline: 0; border: 0; background: none; cursor: pointer; }
 
 b.light-color{ color: #444;  }
 
-.icon{ font-size: 1.1em; display: inline-block; line-height: inherit;}
+.icon{ font-size: 1.1em; display: inline-block; line-height: inherit; }
 
 [class^="icon-"]:before, [class*=" icon-"]:before{ line-height: inherit; }
 
@@ -99,17 +99,17 @@ b.light-color{ color: #444;  }
 :-moz-placeholder { font-size: .9em; letter-spacing: 1px; }
 
 
-/* .full-height{ height: 100%; }
+.full-height{ height: 100%; }
 
 .position-static{ position: static; }
 
-.font-white{ color: #fff; } */
+.font-white{ color: #01213c; }
 
 
 /* ---------------------------------
 3. MAIN SECTION
 --------------------------------- */
-.logo{ position: relative; top: 40px; height: 30px; }
+.logo{  position: absolute; top: 30px; width: 10%; left: 50%; transform: translateX(-50%); }
 .logo img{ height: 100%; width: auto; } 
 
 
@@ -125,7 +125,7 @@ b.light-color{ color: #444;  }
 
 .main-area .notify-btn:hover{ background: none; }
 
-/* .main-area .social-btn{ position: absolute; bottom: 40px; width: 100%; left: 50%; transform: translateX(-50%); }
+.main-area .social-btn{ position: absolute; bottom: 30px; width: 100%; left: 50%; transform: translateX(-50%); }
 
 .main-area .social-btn > li > a{ margin: 0 10px; padding-bottom: 7px; position: relative; overflow: hidden; }
 
@@ -133,9 +133,9 @@ b.light-color{ color: #444;  }
 	transition: all .2s; height: 2px; background: #1dc3fc; }
 
 	
-.main-area .social-btn > li > a:hover:after{ transform: translateX(100%); } */
+.main-area .social-btn > li > a:hover:after{ transform: translateX(100%); }
 
- .footer-icons{ position: relative; top: 30vh; }
+ .footer-icons{ position: absolute; bottom: 30px; width: 100%; left: 50%; transform: translateX(-50%); }
 
  .footer-icons > li > a{ display: inline-block; font-size: 1.07em; padding: 0 0px; }
 
@@ -146,8 +146,8 @@ b.light-color{ color: #444;  }
 
  .footer-icons > li > a:hover > i{ border: 1px solid; }
 
- .footer-icons > li > a > i[class*="linkedin"]{ color: rgb(0, 0, 0); border-color: rgb(255, 255, 255); }
- .footer-icons > li > a > i[class*="behance"]{ color: rgb(0, 0, 0); border-color: rgb(255, 255, 255); }
- .footer-icons > li > a > i[class*="facebook"]{ color: rgb(0, 0, 0); border-color: rgb(255, 255, 255); }
- .footer-icons > li > a > i[class*="instagram"]{ color: rgb(0, 0, 0); border-color: rgb(255, 255, 255); }
+ .footer-icons > li > a > i[class*="linkedin"]{ color: #01213c; border-color: #01213c; }
+ .footer-icons > li > a > i[class*="behance"]{ color: #01213c; border-color: #01213c; }
+ .footer-icons > li > a > i[class*="facebook"]{ color: #01213c; border-color: #01213c; }
+ .footer-icons > li > a > i[class*="instagram"]{ color: #01213c; border-color: #01213c; }
 
